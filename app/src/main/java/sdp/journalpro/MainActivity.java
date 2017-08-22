@@ -8,9 +8,8 @@ public class MainActivity extends AppCompatActivity {
     //richard test commit
     // Aaron test commit
     //2commit
-    //maxxx 44
+//2nd richard
 
-//test
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
