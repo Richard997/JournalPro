@@ -7,7 +7,7 @@ public class MainActivity extends AppCompatActivity {
 //test commit
     //richard test commit
     // Aaron test commit
-    //2你的commit
+    //2commit
 
 
     @Override
